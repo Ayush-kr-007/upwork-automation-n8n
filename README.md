@@ -141,9 +141,4 @@ Paste → Save → `git commit` → `git push`
 
 You’re **done**. 🫡
 
-```
 
-- or badges + screenshots section
-
-Say the word.
-```
