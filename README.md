@@ -114,7 +114,7 @@ http://localhost:5678
 
 ## 🎥 Demo Video
 
-link: https://drive.google.com/file/d/1epK-2wZwmOR5v0CmJO5uJdsvAifc4Gh2/view?usp=sharing
+▶️ https://drive.google.com/file/d/1epK-2wZwmOR5v0CmJO5uJdsvAifc4Gh2/view?usp=sharing
 
 The demo video showcases:
 
